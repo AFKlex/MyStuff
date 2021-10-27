@@ -1,0 +1,57 @@
+body{
+  background-color: #3a3e46;
+
+}
+
+h1 {
+font-family: 'Lobster', cursive;
+font-size: 7rem;
+color: #6bcca2;
+width: 1000px;
+margin: 100px auto 0 auto;
+text-align: center;
+text-shadow: 7px 7px #242931;
+}
+
+div{
+  width:1000px;
+  margin: 100px auto 0 auto;
+  height: 350px;
+}
+
+h2{
+  font-size: 2,5rem;
+  color: #6bcca2;
+  width: 200px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+img {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.Player1 {
+display: inline;
+margin-left: 250px;
+
+}
+
+.Player2 {
+  display: inline;
+  margin-right: 250px;
+}
+
+.WürfelPlayer1{
+  margin-left: 194px;
+}
+.WürfelPlayer2{
+  margin-right: 194px;
+}
+
+p {
+  text-align: center;
+  width: 200px;
+  margin: 0 auto 0 auto;
+  color: #d1d0d3;
+}
